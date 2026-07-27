@@ -54,6 +54,11 @@
     combos {
         compatible = "zmk,combos";
 
+        softoff {
+            bindings = <&soft_off>;
+            key-positions = <1 15 29>;
+        };
+
         hema {
             bindings = <&tog 4>;
             key-positions = <36 41>;
