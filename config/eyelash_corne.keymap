@@ -47,7 +47,7 @@
 
         hema {
             bindings = <&tog 4>;
-            key-positions = <36 41>;
+            key-positions = <42 47>; // LGUI + RALT in the 48-key transform
             timeout-ms = <50>;
         };
     };

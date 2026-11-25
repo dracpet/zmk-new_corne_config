@@ -248,5 +248,5 @@ layers:
 combos:
 - p: [1, 15, 29]
   k: '&soft_off'
-- p: [36, 41]
+- p: [42, 47]
   k: {t: 和码 HeMa, h: toggle}
